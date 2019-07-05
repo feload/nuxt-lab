@@ -9,6 +9,7 @@
 </template>
 <script>
 export default {
+    layout: 'users',
     data(){
         return {
             userId: ''
